@@ -1,9 +1,4 @@
 # 100 Dias de Código
 Tudo que eu fiz nos 100 dias de código (https://100diasdecodigo.dev)
 
-## Dia 001: 29/08 - CRUD Simples usando Go
-
-```
-go get.
-go run .
-```
+A documentação de como rodar vai estar na página de cada dia. O arquivo ```log.md``` mostra o registro diário com documentação, problemas e outras possíveis observações.
