@@ -1,4 +1,4 @@
-# Dia 001: 01/09
+# Dia 002: 01/09
 ## Detecção de objetos com AI em Python usando OpenCV, YOLO e Ultralytics.
 
 ## - Instalar as dependências
